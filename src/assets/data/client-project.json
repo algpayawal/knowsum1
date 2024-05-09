@@ -1,0 +1,34 @@
+[
+    {
+        "taskName": "Update Website Content",
+        "freelancerName": "Amanda Lopez",
+        "description": "Reviewed and updated content on the client's website to reflect latest products and services.",
+        "completionDate": "2024-04-25",
+        "status": "In Progress",
+        "freelancerEmailAddress": "tamanda.lopez@example.com"
+    },
+    {
+        "taskName": "Develop Mobile App Prototype",
+        "freelancerName": "Juan Dela Cruz",
+        "description": "Designed and developed a prototype for the client's new mobile application.",
+        "completionDate": "2024-05-10",
+        "status": "Pending",
+        "freelancerEmailAddress": "juan.delacruz@example.com"
+      },
+      {
+        "taskName": "Design Company Logo",
+        "freelancerName": "Maria Garcia",
+        "description": "Created multiple logo concepts for the client's company and finalized the design.",
+        "completionDate": "2024-04-20",
+        "status": "Completed",
+        "freelancerEmailAddress": "maria.garcia@example.com"
+      },
+      {
+        "taskName": "SEO Optimization",
+        "freelancerName": "Carlos Rodriguez",
+        "description": "Conducted on-page and off-page SEO optimizations to improve the client's website visibility.",
+        "completionDate": "2024-05-15",
+        "status": "Scheduled",
+        "freelancerEmailAddress": "carlos.rodriguez@example.com"
+      }
+]

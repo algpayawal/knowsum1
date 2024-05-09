@@ -1,0 +1,92 @@
+[
+    {
+      "taskName": "Design Website Homepage",
+      "clientName": "ABC Company",
+      "description": "Create a modern and user-friendly homepage design for the client's website.",
+      "dueDate": "2024-05-15",
+      "status": "In Progress",
+      "notes": "Awaiting feedback on initial design concepts.",
+      "clientEmailAddress": "abc@example.com"
+    },
+    {
+      "taskName": "Develop E-commerce Features",
+      "clientName": "XYZ Store",
+      "description": "Implement shopping cart functionality and product filtering options on the e-commerce platform.",
+      "dueDate": "2024-05-20",
+      "status": "Pending Review",
+      "notes": "Code review scheduled for next week.",
+      "clientEmailAddress": "xyz@store.com"
+    },
+    {
+      "taskName": "Write Blog Post",
+      "clientName": "John Doe",
+      "description": "Write a blog post about the benefits of using Vue.js for web development.",
+      "dueDate": "2024-05-10",
+      "status": "On Hold",
+      "notes": "Waiting for additional information from the client.",
+      "clientEmailAddress": "john.doe@example.com"
+    },
+    {
+      "taskName": "Create Logo Design",
+      "clientName": "XYZ Startup",
+      "description": "Design a unique and memorable logo for the client's new startup.",
+      "dueDate": "2024-05-25",
+      "status": "Not Started",
+      "notes": "Initial brainstorming session completed.",
+      "clientEmailAddress": "xyz.startup@example.com"
+    },
+    {
+      "taskName": "Develop Mobile App Prototype",
+      "clientName": "Mobile Solutions Inc.",
+      "description": "Create a prototype for the client's new mobile application, focusing on usability and functionality.",
+      "dueDate": "2024-05-18",
+      "status": "In Progress",
+      "notes": "UI wireframes completed. Starting development phase.",
+      "clientEmailAddress": "mobile.solutions@example.com"
+    },
+    {
+      "taskName": "Optimize Website Performance",
+      "clientName": "Tech Corporation",
+      "description": "Identify and resolve performance issues on the client's website to improve loading speed and user experience.",
+      "dueDate": "2024-05-12",
+      "status": "Pending",
+      "notes": "Conducting performance audit.",
+      "clientEmailAddress": "tech.corp@example.com"
+    },
+    {
+      "taskName": "Update Social Media Graphics",
+      "clientName": "Digital Marketing Agency",
+      "description": "Create new graphics and banners for the client's social media channels to align with current branding.",
+      "dueDate": "2024-05-22",
+      "status": "Not Started",
+      "notes": "Received updated branding guidelines from the client.",
+      "clientEmailAddress": "digital.marketing@example.com"
+    },
+    {
+      "taskName": "Review Website Content",
+      "clientName": "Content Creators LLC",
+      "description": "Review and proofread the content on the client's website for accuracy and clarity.",
+      "dueDate": "2024-05-14",
+      "status": "In Progress",
+      "notes": "Completed initial review of homepage content. Proceeding with other pages.",
+      "clientEmailAddress": "content.creators@example.com"
+    },
+    {
+      "taskName": "Implement Payment Gateway",
+      "clientName": "E-commerce Startup",
+      "description": "Integrate a secure payment gateway into the client's e-commerce platform to facilitate online transactions.",
+      "dueDate": "2024-05-28",
+      "status": "Pending Review",
+      "notes": "Testing payment gateway integration.",
+      "clientEmailAddress": "ecommerce.startup@example.com"
+    },
+    {
+      "taskName": "Create Newsletter Template",
+      "clientName": "Marketing Agency",
+      "description": "Design an eye-catching and responsive newsletter template for the client's email marketing campaigns.",
+      "dueDate": "2024-05-16",
+      "status": "On Hold",
+      "notes": "Awaiting final content approval from the client.",
+      "clientEmailAddress": "marketing.agency@example.com"
+    }
+  ]

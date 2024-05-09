@@ -1,0 +1,327 @@
+[
+  {
+    "firstName": "Freelancer",
+    "lastName": "Freelancer",
+    "email_address": "freelancer@example.com",
+    "role": 1,
+    "title": "Tech Consultant",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345",
+      "country": "USA"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Client",
+    "lastName": "Client",
+    "email_address": "client@example.com",
+    "role": 2,
+    "address": {
+      "street": "456 Elm St",
+      "city": "Othertown",
+      "state": "NY",
+      "zip": "67890",
+      "country": "USA"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email_address": "john.doe@example.com",
+    "role": 1,
+    "title": "Web Developer",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Anycity",
+      "state": "TX",
+      "zip": "54321",
+      "country": "USA"
+    },
+    "priceRate": 2
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email_address": "jane.smith@example.com",
+    "role": 2,
+    "address": {
+      "street": "101 Pine St",
+      "city": "Somecity",
+      "state": "FL",
+      "zip": "13579",
+      "country": "USA"
+    },
+    "priceRate": 5
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "email_address": "michael.johnson@example.com",
+    "role": 1,
+    "title": "App Developer",
+    "address": {
+      "street": "246 Cedar St",
+      "city": "Othertown",
+      "state": "NY",
+      "zip": "97531",
+      "country": "USA"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Williams",
+    "email_address": "emily.williams@example.com",
+    "role": 2,
+    "address": {
+      "street": "369 Maple St",
+      "city": "Anothercity",
+      "state": "WA",
+      "zip": "24680",
+      "country": "USA"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "email_address": "david.brown@example.com",
+    "role": 1,
+    "title": "Digital Marketer",
+    "address": {
+      "street": "753 Walnut St",
+      "city": "Sometown",
+      "state": "IL",
+      "zip": "86420",
+      "country": "USA"
+    },
+    "priceRate": 2
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Jones",
+    "email_address": "sarah.jones@example.com",
+    "role": 2,
+    "address": {
+      "street": "852 Birch St",
+      "city": "Anothertown",
+      "state": "CA",
+      "zip": "12369",
+      "country": "USA"
+    },
+    "priceRate": 5
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Garcia",
+    "email_address": "matthew.garcia@example.com",
+    "role": 1,
+    "title": "SEO Specialist",
+    "address": {
+      "street": "147 Pine St",
+      "city": "Yetanothercity",
+      "state": "OH",
+      "zip": "97531",
+      "country": "USA"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Martinez",
+    "email_address": "jessica.martinez@example.com",
+    "role": 2,
+    "address": {
+      "street": "258 Oak St",
+      "city": "Lastcity",
+      "state": "GA",
+      "zip": "36925",
+      "country": "USA"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Hernandez",
+    "email_address": "christopher.hernandez@example.com",
+    "role": 1,
+    "title": "Software Developer",
+    "address": {
+      "street": "369 Elm St",
+      "city": "Finaltown",
+      "state": "CA",
+      "zip": "25841",
+      "country": "USA"
+    },
+    "priceRate": 2
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Lopez",
+    "email_address": "amanda.lopez@example.com",
+    "role": 2,
+    "address": {
+      "street": "123 Walnut St",
+      "city": "Endtown",
+      "state": "NY",
+      "zip": "36985",
+      "country": "USA"
+    },
+    "priceRate": 5
+  },
+  {
+    "firstName": "Juan",
+    "lastName": "Santos",
+    "email_address": "juan.santos@example.com",
+    "role": 1,
+    "title": "Web Developer",
+    "address": {
+      "street": "123 Mabini St",
+      "city": "Maynila",
+      "state": "MM",
+      "zip": "1000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Del Rosario",
+    "email_address": "maria.delrosario@example.com",
+    "role": 2,
+    "title": "Graphic Designer",
+    "address": {
+      "street": "456 Rizal Ave",
+      "city": "Cebu",
+      "state": "CE",
+      "zip": "6000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "Jose",
+    "lastName": "Cruz",
+    "email_address": "jose.cruz@example.com",
+    "role": 3,
+    "title": "App Developer",
+    "address": {
+      "street": "789 Bonifacio St",
+      "city": "Davao",
+      "state": "DA",
+      "zip": "8000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 5
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Lopez",
+    "email_address": "ana.lopez@example.com",
+    "role": 1,
+    "title": "UI/UX Designer",
+    "address": {
+      "street": "321 Luna St",
+      "city": "Iloilo",
+      "state": "IL",
+      "zip": "5000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Garcia",
+    "email_address": "pedro.garcia@example.com",
+    "role": 1,
+    "title": "Software Engineer",
+    "address": {
+      "street": "654 Magallanes St",
+      "city": "Zamboanga",
+      "state": "ZA",
+      "zip": "7000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "Emilio",
+    "lastName": "Aguinaldo",
+    "email_address": "emilio.aguinaldo@example.com",
+    "role": 3,
+    "title": "Network Engineer",
+    "address": {
+      "street": "101 Kalayaan Ave",
+      "city": "Quezon City",
+      "state": "MM",
+      "zip": "1100",
+      "country": "Pilipinas"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "Gemma",
+    "lastName": "Santos",
+    "email_address": "gemma.santos@example.com",
+    "role": 1,
+    "title": "Frontend Developer",
+    "address": {
+      "street": "456 Roxas Blvd",
+      "city": "Manila",
+      "state": "MM",
+      "zip": "1000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 3
+  },
+  {
+    "firstName": "Fernando",
+    "lastName": "Rizal",
+    "email_address": "fernando.rizal@example.com",
+    "role": 2,
+    "title": "Mobile Developer",
+    "address": {
+      "street": "789 Bonifacio St",
+      "city": "Taguig",
+      "state": "MM",
+      "zip": "1634",
+      "country": "Pilipinas"
+    },
+    "priceRate": 5
+  },
+  {
+    "firstName": "Corazon",
+    "lastName": "Aquino",
+    "email_address": "corazon.aquino@example.com",
+    "role": 3,
+    "title": "System Analyst",
+    "address": {
+      "street": "1986 EDSA",
+      "city": "Makati",
+      "state": "MM",
+      "zip": "1227",
+      "country": "Pilipinas"
+    },
+    "priceRate": 4
+  },
+  {
+    "firstName": "Lapu-Lapu",
+    "lastName": "Magellan",
+    "email_address": "lapulapu.magellan@example.com",
+    "role": 1,
+    "title": "Full Stack Developer",
+    "address": {
+      "street": "1521 Mactan St",
+      "city": "Cebu City",
+      "state": "CE",
+      "zip": "6000",
+      "country": "Pilipinas"
+    },
+    "priceRate": 5
+  }
+  
+]

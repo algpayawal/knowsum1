@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Tech Consultants",
+    "description": "Tech consultants provide expert advice on leveraging technology for business growth."
+  },
+  {
+    "title": "Web Developers",
+    "description": "Web developers build and maintain user-friendly websites and applications."
+  },
+  {
+    "title": "App Developers",
+    "description": "App developers create mobile applications tailored to clients' needs."
+  },
+  {
+    "title": "Digital Marketers",
+    "description": "Digital marketers implement online strategies to boost brand visibility and engagement."
+  },
+  {
+    "title": "SEO Specialists",
+    "description": "SEO specialists optimize websites to improve search engine rankings."
+  },
+  {
+    "title": "Software Developers",
+    "description": "Software developers design and build custom software solutions."
+  },
+  {
+    "title": "UI/UX Designers",
+    "description": "UI/UX designers craft intuitive and visually appealing digital experiences."
+  },
+  {
+    "title": "SEO Content Writers",
+    "description": "SEO content writers create optimized content to enhance online visibility."
+  }
+]

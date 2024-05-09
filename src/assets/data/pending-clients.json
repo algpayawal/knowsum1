@@ -1,0 +1,92 @@
+[
+  {
+      "clientName": "ABC Company",
+      "projectName": "Design Website Homepage",
+      "description": "Create a modern and user-friendly homepage design for the client's website.",
+      "dueDate": "2024-05-15",
+      "status": "Pending",
+      "notes": "Client reached out via email, awaiting response.",
+      "clientEmailAddress": "abc@example.com"
+  },
+  {
+      "clientName": "XYZ Corporation",
+      "projectName": "Develop Mobile App",
+      "description": "Develop a fully functional mobile application with advanced features and seamless user experience.",
+      "dueDate": "2024-05-20",
+      "status": "Pending",
+      "notes": "Initial discussion held with client, awaiting project details.",
+      "clientEmailAddress": "xyz@corporation.com"
+  },
+  {
+      "clientName": "Tech Solutions Inc.",
+      "projectName": "Optimize SEO Performance",
+      "description": "Optimize website content and implement SEO strategies to improve search engine ranking and organic traffic.",
+      "dueDate": "2024-05-10",
+      "status": "Pending",
+      "notes": "Received inquiry through website contact form, scheduling consultation.",
+      "clientEmailAddress": "tech@solutions.com"
+  },
+  {
+      "clientName": "ABC Marketing Agency",
+      "projectName": "Create Marketing Campaign",
+      "description": "Develop a comprehensive marketing campaign to promote client's new product launch.",
+      "dueDate": "2024-05-25",
+      "status": "Pending",
+      "notes": "Client provided project brief, awaiting proposal submission.",
+      "clientEmailAddress": "abc.marketing@example.com"
+  },
+  {
+      "clientName": "Education Startup",
+      "projectName": "Design Learning Platform UI",
+      "description": "Design a user-friendly and intuitive user interface for the client's online learning platform.",
+      "dueDate": "2024-06-01",
+      "status": "Pending",
+      "notes": "Initial meeting scheduled with client to discuss project requirements.",
+      "clientEmailAddress": "education@startup.com"
+  },
+  {
+      "clientName": "Digital Marketing Agency",
+      "projectName": "Create Social Media Content",
+      "description": "Develop engaging and creative content for the client's social media channels to boost engagement.",
+      "dueDate": "2024-06-05",
+      "status": "Pending",
+      "notes": "Client provided content calendar, awaiting content creation.",
+      "clientEmailAddress": "digital.marketing@example.com"
+  },
+  {
+      "clientName": "XYZ Startup",
+      "projectName": "Develop Prototype",
+      "description": "Develop a functional prototype for the client's innovative product idea.",
+      "dueDate": "2024-06-10",
+      "status": "Pending",
+      "notes": "Scheduled kickoff meeting with client to define project scope.",
+      "clientEmailAddress": "xyz@startup.com"
+  },
+  {
+      "clientName": "Software Innovations LLC",
+      "projectName": "Custom Software Development",
+      "description": "Develop a custom software solution tailored to the client's specific business needs.",
+      "dueDate": "2024-06-15",
+      "status": "Pending",
+      "notes": "Client provided detailed project requirements, reviewing feasibility.",
+      "clientEmailAddress": "info@softwareinnovations.com"
+  },
+  {
+      "clientName": "Online Retailer",
+      "projectName": "E-commerce Website Redesign",
+      "description": "Redesign the client's e-commerce website to enhance user experience and increase conversions.",
+      "dueDate": "2024-06-20",
+      "status": "Pending",
+      "notes": "Initial meeting scheduled with client to discuss redesign goals.",
+      "clientEmailAddress": "info@onlineretailer.com"
+  },
+  {
+      "clientName": "Technology Consulting Firm",
+      "projectName": "Consulting Services",
+      "description": "Provide consulting services to the client to assist with strategic planning and business development.",
+      "dueDate": "2024-06-25",
+      "status": "Pending",
+      "notes": "Client interested in long-term collaboration, discussing project scope.",
+      "clientEmailAddress": "contact@techconsultingfirm.com"
+  }
+]
